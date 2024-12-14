@@ -32,16 +32,7 @@ ENV/
 *.swp
 *.swo
 .project
-.pydevproject
-
-# Project specific
-output/
-*.csv
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.mp4
+.pydevprojec
 
 # OS specific
 .DS_Store
